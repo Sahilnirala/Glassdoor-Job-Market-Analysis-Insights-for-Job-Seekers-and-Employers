@@ -1,0 +1,2 @@
+# Glassdoor-Job-Market-Analysis-Insights-for-Job-Seekers-and-Employers
+This project analyzes Glassdoor job listings to uncover salary trends, job roles, and company ratings. It includes data cleaning, visualization, and insights to help job seekers find high-paying opportunities and assist employers in structuring competitive salaries. The repository contains Python scripts for analysis and visualization. 🚀
